@@ -1,4 +1,4 @@
 # home
 
 
-|[Fabric](/fabric)|[Empty](/)|
+|[Fabric](fabric/)|[Empty]()|
